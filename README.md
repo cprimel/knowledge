@@ -1,4 +1,4 @@
-# Personal Wiki
+# Overview
 
 This is my personal wiki where I keep and share notes and resources. For now, it is hosted as an [online Gitbook](wiki.cprimel.io).
 
